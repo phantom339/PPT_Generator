@@ -21,10 +21,10 @@ I've attached a video to show you just how fast and efficient it is. 👇 I'd lo
 **if you want to use the app on a personal device for learning purpose must have a .env file which will have api keys for LLM and pexels.com site**
 **format for .env file:**
 
-**GEMINI_API_KEY = Your api key,
+**GEMINI_API_KEY = Your api key,**
 
-GEMINI_MODEL =gemma-3-27b-it
+**GEMINI_MODEL =gemma-3-27b-it**
 
-PEXELS_API_KEY = Your api key**
+**PEXELS_API_KEY = Your api key**
 
 
