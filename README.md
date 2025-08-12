@@ -17,3 +17,12 @@ Under the hood, it's a powerful stack:
 💻 The Interface: A minimalist and user-friendly UI built with Streamlit makes the tool accessible to everyone.
 
 I've attached a video to show you just how fast and efficient it is. 👇 I'd love to hear your feedback in the comments!
+
+**if you want to use the app on a personal device for learning purpose must have a .env file which will have api keys for LLM and pexels.com site**
+**format for .env file:**
+
+**GEMINI_API_KEY =
+GEMINI_MODEL =gemma-3-27b-it
+PEXELS_API_KEY =**
+
+
